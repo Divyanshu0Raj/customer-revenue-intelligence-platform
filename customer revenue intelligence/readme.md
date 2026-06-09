@@ -167,39 +167,6 @@ Prevents duplicate records during incremental processing.
 * LAG()
 * PARTITION BY
 * Window Functions
-
----
-
-## 📸 Screenshots
-
-### Architecture Diagram
-
-![Architecture](architecture_diagram.png)
-
-### AWS S3 Bucket
-
-![S3](screenshots/01_s3_bucket.png)
-
-### Snowflake Database Structure
-
-![Database](screenshots/02_database_structure.png)
-
-### Snowpipe
-
-![Snowpipe](screenshots/03_snowpipe.png)
-
-### Streams
-
-![Streams](screenshots/04_streams.png)
-
-### Tasks
-
-![Tasks](screenshots/05_tasks.png)
-
-### Revenue Analytics
-
-![Analytics](screenshots/06_top_customers.png)
-
 ---
 
 ## 🎯 Key Learnings
